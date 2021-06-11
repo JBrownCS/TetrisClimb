@@ -9,3 +9,6 @@ Controls:
 -ESC Key to Pause (Press Enter to Exit the Game from Pause Menu)
 -Enter Key to select menu options
 -Game runs at 60 Frames per Second
+
+Video Demonstration: https://youtu.be/NnMtwdol97I
+
